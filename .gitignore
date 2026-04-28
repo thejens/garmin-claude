@@ -1,0 +1,12 @@
+# Node
+daemon/node_modules/
+daemon/dist/
+
+# Watch app — generated/secrets, never commit these
+watch/source/Config.mc
+watch/developer_key
+watch/build/
+
+# macOS
+.DS_Store
+*.swp
