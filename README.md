@@ -5,7 +5,7 @@ your watch captures a `SPORT_GENERIC` activity with your wrist heart rate
 alongside custom graphs: tokens/sec, tools/min, estimated server-side watts,
 and cumulative tokens. The activity syncs to Garmin Connect like any workout.
 
-![Garmin Connect activity with token graphs](docs/screenshot-placeholder.png)
+![3499.5 tok/s live on a Garmin Forerunner 645 Music](docs/screenshot.jpg)
 
 ---
 
